@@ -1,0 +1,22 @@
+Key Promoter X
+String Manipulation
+com.faebeee.vuecomponentcreator
+com.fxiaoke.lizc8407
+com.github.googee.laravelgenerator
+com.github.timo_reymann.composer_dump_autoload_phpstorm_plugin
+com.intellij.ideolog
+com.kalessil.phpStorm.phpInspectionsEA
+com.laravel_idea.plugin
+com.laravel_idea.tailwind
+com.niclas-van-eyk.laravel-make-integration
+com.xiaobing1024.laravel
+de.espend.idea.laravel
+de.espend.idea.php.annotation
+dev.ekvedaras.laravelquery
+dev.nybroe.collector
+me.kapien.vue-router-helper
+mobi.hsz.idea.gitignore
+net.seesharpsoft.intellij.plugins.csv
+nl.deschepers.laraveltinker
+ru.adelf.idea.dotenv
+tv.twelvetone.intellij.plugins.intellivue

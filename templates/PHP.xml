@@ -1,10 +1,10 @@
 <templateSet group="PHP">
-  <template name="dd" value="dd('here'$END$);" toReformat="false" toShortenFQNames="true">
+  <template name="dd" value="dd('here'$END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="try" value="try {&#10;    $SELECTION$&#10;} catch (\Exception $e) {&#10;    logger('Message: ', [$e-&gt;getMessage()]);&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="try" value="try {&#10;    $SELECTION$&#10;} catch (\Exception $e) {&#10;    logger('Message: ', [$e-&gt;getMessage()]);&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
